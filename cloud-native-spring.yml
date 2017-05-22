@@ -1,1 +1,2 @@
-greeting: Hola
+ui:
+  greeting: Hola
