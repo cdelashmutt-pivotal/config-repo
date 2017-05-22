@@ -1,6 +1,6 @@
 ----
-ui:
-  greeting: Howdy
+
+greeting: "Howdy"
 
 security:
   basic:
