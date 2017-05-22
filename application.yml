@@ -1,5 +1,5 @@
 ----
-greeting: "Howdy %%s!"
+greeting: "Howdy \u0025s!"
 
 security:
   basic:
